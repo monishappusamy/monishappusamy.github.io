@@ -19,7 +19,7 @@ links:
     url:          https://www.hackerrank.com/monishappusamy
     external:     true
   - name:         Projects
-    url:          /Projects
+    url:          /projects
   - name:         Blog
     url:          http://monishappusamy.blogspot.com
     external:     true
