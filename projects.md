@@ -5,7 +5,7 @@ title: projects
 <center>
 Current: <br>
 
-<a href ="monish.co.in/WhoIsEditing">Who is Editing </a>
+<a href ="../WhoIsEditing">Who is Editing </a>
 
 Past: <br>
 
