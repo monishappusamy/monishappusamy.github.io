@@ -5,7 +5,7 @@ title: projects
 <center>
 Current: <br>
 
-Who is Editing - A web application showing recent edits to Wikipedia as they happen in real time.
+<a href ="monish.co.in/WhoIsEditing">Who is Editing </a>
 
 Past: <br>
 
