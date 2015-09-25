@@ -3,6 +3,10 @@ layout: page
 title: projects
 ---
 <center>
+Current: <br>
+
+Who is Editing - A web application showing recent edits to Wikipedia as they happen in real time.
+
 Past: <br>
 
 Public Key Enabled Kerberos Authentication<br>
