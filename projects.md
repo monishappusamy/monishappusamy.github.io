@@ -2,12 +2,13 @@
 layout: page
 title: projects
 ---
-<center><b>Current: <b></center>
+######Current: 
 
-<a href ="../WhoIsEditing">Who is Editing </a>
-<a href="https://github.com/monishappusamy/Notes/tree/master/Operating-Systems/bus_simulation">Bus simulation</a>
+1. [Who is Editing](http://monish.co.in/WhoIsEditing/)
+2. [Bus simulation](https://github.com/monishappusamy/Notes/tree/master/Operating-Systems/bus_simulation)
 
-<center><b>Past: <b></center>
-Public Key Enabled Kerberos Authentication
-Implementation of Data Protection
-<a href="https://github.com/monishappusamy/h-app">A damn vulnerable web-application for Penetration Testing</a>
+######Past:
+
+1. Public Key Enabled Kerberos Authentication
+2. Implementation of Data Protection
+3. [A damn vulnerable web-application for Penetration Testing](https://github.com/monishappusamy/h-app)
